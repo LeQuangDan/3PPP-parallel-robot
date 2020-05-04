@@ -1,5 +1,5 @@
 # 3PPP-parallel-robot
-This project share the simulation of a 3-dof parallel robot manipulator which included 
+This project shared the simulation of a 3-dof parallel robot manipulator which included 
 + Inverese kinematic of a 3PPP parallel robot manipulator .
 + Dynamic model of a 3PPP parallel robot manipulator .
 The parallel robot runs on Matlab/Simulink.
